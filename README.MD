@@ -1,5 +1,3 @@
----
-title: "README"
-output: html_document
----
+# My Read Me Text
 
+This is my incredible readme file :)
